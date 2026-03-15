@@ -85,13 +85,7 @@ The final dashboard is divided into **two pages**.
 
 # Executive Overview
 
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/1%2A2azl1AC_bnE_xhBNTmWajg.jpeg)
 
-![Image](https://dezyre.gumlet.io/images/blog/power-bi-dashboard-examples/E-commerce_Sales_Power_BI_Template.webp?dpr=2.6\&w=376)
-
-![Image](https://media.licdn.com/dms/image/v2/D5622AQE_B5ULWLyOhA/feedshare-shrink_800/B56ZrbHEHDIsAg-/0/1764612656840?e=2147483647\&t=-Nic_5u9uuqGBORrFo4MjEXGkM5LRT8gL77uEabO7Fk\&v=beta)
-
-![Image](https://media.licdn.com/dms/image/v2/D5622AQFwnr9jRd-fxA/feedshare-shrink_800/B56Zt.Utx3HYAo-/0/1767350920271?e=2147483647\&t=-Ttl5cEqMoOplPaax5l4BVEH9Qg4dDBLF7iAN-3MugM\&v=beta)
 
 This page provides a high-level overview of business performance.
 
@@ -121,13 +115,7 @@ A small number of sellers generate a large portion of revenue, with the top sell
 
 # Customer & Delivery Insights
 
-![Image](https://community.fabric.microsoft.com/t5/image/serverpage/image-id/1092600i54D94C0A156FA216?v=v2)
 
-![Image](https://miro.medium.com/1%2A2azl1AC_bnE_xhBNTmWajg.jpeg)
-
-![Image](https://dataflip.co/cdn/shop/files/PowerBIDashboardTemplatesforFoodDeliveryServices_1024x1024.jpg?v=1761398698)
-
-![Image](https://i.imgur.com/PjQMLIp.png)
 
 This page focuses on customer behavior and operational performance.
 
